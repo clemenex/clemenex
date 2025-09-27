@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧾 I am a 3rd Year BS Computer Science Student specializing in Data Science<br>💻 Currently working on my Web Development Skills (as a side quest lol) <br>      on top of my skills in Python and Data Analysis (pandas, matplotlib, etc.)<br>🎨I also like designing graphics and working on UI/UX Development<br><br>Feel free to explore some of the projects I have made for school and on the side. <br>Glad to have you on board!
+🧾 I am a 4th Year BS Computer Science Student specializing in Data Science<br>💻 Currently working on my Web Development Skills (as a side quest lol) <br>      on top of my skills in Python and Data Analysis (pandas, matplotlib, etc.)<br>🎨I also like designing graphics and working on UI/UX Development<br><br>Feel free to explore some of the projects I have made for school and on the side. <br>Glad to have you on board!
 
 
 # 💻 Tech Stack:
